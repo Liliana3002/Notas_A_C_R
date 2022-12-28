@@ -2,6 +2,9 @@
  cantidad condicionado (C) y la cantidad de suspendidos (S). A >=5; C=4 y S <4.
  n=nota; x=número de veces que se repite nota
  b=aprobados,  z=condicionados, r=reprobados*/
+
+ //comentario agregado
+
 package apli_notas_a_c_s;
 
 import javax.swing.JOptionPane;
